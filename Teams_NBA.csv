@@ -1,0 +1,31 @@
+team,conference,division,arena,city
+ATL,E,Southeast,State Farm Arena,Atlanta
+BKN,E,Atlantic,Barclays Center,Brooklyn
+BOS,E,Atlantic,TD Garden,Boston
+CHA,E,Southeast,Spectrum Center,Charlotte
+CHI,E,Central,United Center,Chicago
+CLE,E,Central,Rocket Mortgage FieldHouse,Cleveland
+DAL,W,Southwest,American Airlines Center,Dallas
+DEN,W,Northwest,Ball Arena,Denver
+DET,E,Central,Little Caesars Arena,Detroit
+GSW,W,Pacific,Chase Center,San Francisco
+HOU,W,Southwest,Toyota Center,Houston
+IND,E,Central,Gainbridge Fieldhouse,Indianapolis
+LAC,W,Pacific,Crypto.com Arena,Los Angeles
+LAL,W,Pacific,Crypto.com Arena,Los Angeles
+MEM,W,Southwest,FedExForum,Memphis
+MIA,E,Southeast,Kaseya Center,Miami
+MIL,E,Central,Fiserv Forum,Milwaukee
+MIN,W,Northwest,Target Center,Minneapolis
+NOP,W,Southwest,Smoothie King Center,New Orleans
+NYK,E,Atlantic,Madison Square Garden,New York
+OKC,W,Northwest,Paycom Center,Oklahoma City
+ORL,E,Southeast,Amway Center,Orlando
+PHI,E,Atlantic,Wells Fargo Center,Philadelphia
+PHX,W,Pacific,Footprint Center,Phoenix
+POR,W,Northwest,Moda Center,Portland
+SAC,W,Pacific,Golden 1 Center,Sacramento
+SAS,W,Southwest,Frost Bank Center,San Antonio
+TOR,E,Atlantic,Scotiabank Arena,Toronto
+UTA,W,Northwest,Delta Center,Salt Lake City
+WAS,E,Southeast,Capital One Arena,"Washington, D.C."
